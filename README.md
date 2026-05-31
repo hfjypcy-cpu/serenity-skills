@@ -10,8 +10,6 @@
 
 # Serenity Market Scout
 
-**面向 Claude 的 Serenity 风格主题市场研究与个股深潜技能。**
-
 ## 这是什么技能？
 
 Serenity Market Scout 是一个面向 Claude 的研究技能，复现了 Serenity 风格投研的核心分析过程——从真实的需求冲击出发，沿供应链追溯，找到结构性卡脖子环节或功能型垄断，最终浮现公开市场中最可能被低估定价的受益标的。
@@ -62,8 +60,6 @@ Serenity Market Scout 是一个面向 Claude 的研究技能，复现了 Serenit
 <a id="english"></a>
 
 # Serenity Market Scout
-
-**A Claude skill for Serenity-style thematic market research and equity deep dives.**
 
 ## What is this skill?
 
