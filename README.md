@@ -10,6 +10,8 @@
 
 # Serenity Market Scout
 
+> 如果你的 AI 客户端无法加载 Skill，可直接使用 **[独立提示词（中文版）](./serenity-market-scout/prompt/zh.md)**，粘贴至 Claude / ChatGPT 项目指令或单次对话即可。
+
 ## 这是什么技能？
 
 Serenity Market Scout 是一个面向 Claude 的研究技能，复现了 Serenity 风格投研的核心分析过程——从真实的需求冲击出发，沿供应链追溯，找到结构性卡脖子环节或功能型垄断，最终浮现公开市场中最可能被低估定价的受益标的。
@@ -55,15 +57,13 @@ Serenity Market Scout 是一个面向 Claude 的研究技能，复现了 Serenit
 
 > 所有输出内容仅供研究参考，不构成任何投资建议。
 
-## 在不支持 Skill 的客户端中使用
-
-如果你使用的 AI 客户端无法加载 Skill（例如 Claude 项目指令、ChatGPT 项目指令，或任意单次对话），可以直接使用 **[独立提示词（中文版）](./serenity-market-scout/prompt/zh.md)**，效果与 Skill 等价。
-
 ---
 
 <a id="english"></a>
 
 # Serenity Market Scout
+
+> If your AI client cannot load Skills, use the **[standalone prompt (English)](./serenity-market-scout/prompt/en.md)** directly — paste it into Claude / ChatGPT project instructions or any single conversation.
 
 ## What is this skill?
 
@@ -109,7 +109,3 @@ Most AI-assisted research tools produce output that looks like analysis but lack
 The result is research that is faster to produce than manual work, transparent about its own uncertainty, and structured in a way that a second reader can challenge, extend, or hand off without losing the thread.
 
 > All outputs are research reference material only and do not constitute investment advice.
-
-## Using Without Skill Support
-
-If your AI client cannot load Skills (e.g., Claude project instructions, ChatGPT project instructions, or any single-session conversation), use the **[standalone prompt (English)](./serenity-market-scout/prompt/en.md)** directly — it is functionally equivalent to the Skill.
