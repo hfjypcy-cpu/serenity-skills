@@ -10,7 +10,7 @@
 
 # Serenity Market Scout
 
-> 如果你的 AI 客户端无法加载 Skill，可直接使用 **[独立提示词（中文版）](./serenity-market-scout/prompt/zh.md)**，粘贴至 Claude / ChatGPT 项目指令或单次对话即可。
+> 如果你的 AI 客户端无法加载 Skill，可直接使用 **[独立提示词（中文版）](./prompt-zh.md)**，粘贴至 Claude / ChatGPT 项目指令或单次对话即可。
 
 ## 这是什么技能？
 
@@ -63,7 +63,7 @@ Serenity Market Scout 是一个面向 Claude 的研究技能，复现了 Serenit
 
 # Serenity Market Scout
 
-> If your AI client cannot load Skills, use the **[standalone prompt (English)](./serenity-market-scout/prompt/en.md)** directly — paste it into Claude / ChatGPT project instructions or any single conversation.
+> If your AI client cannot load Skills, use the **[standalone prompt (English)](./prompt-en.md)** directly — paste it into Claude / ChatGPT project instructions or any single conversation.
 
 ## What is this skill?
 
