@@ -1,5 +1,7 @@
 # Casebook
 
+This file contains prior examples and reusable reasoning patterns. It is not a coverage boundary, and it should not be used to summarize the skill's scope.
+
 ## Table of Contents
 
 - CPO laser chokepoint pattern

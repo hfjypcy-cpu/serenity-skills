@@ -31,14 +31,16 @@ Use targeted searches that combine the architecture, component, customer, and so
 Examples:
 
 - `<company> investor presentation AI data center 2026`
-- `<company> earnings call transcript 1.6T CPO volume production`
-- `<component> supplier Nvidia CPO press release`
+- `<company> earnings call transcript capacity constraint customer qualification`
+- `<constraint or component> supplier customer press release`
 - `<company> annual report photonics customer qualification`
 - `<company> CHIPS Act grant semiconductor photonics`
 - `<company> convertible notes ATM resale registration`
 - `<ticker> market cap dilution investor presentation`
 - `<customer> <supplier> co-packaged optics press release`
 - `<technology> mass production 2027 supplier`
+- `<sector> regulation compliance infrastructure beneficiary filing`
+- `<industry> backlog lead time pricing power earnings call`
 
 For non-US names, search both English and local-market identifiers when available. Use company names, exchange tickers, and product names.
 

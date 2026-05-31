@@ -6,17 +6,17 @@ Input JSON schema:
   {
     "ticker": "SAMPLE",
     "company": "Sample Co",
-    "theme": "CPO",
-    "bottleneck": "CW lasers",
+    "theme": "Cross-sector bottleneck theme",
+    "bottleneck": "regulated capacity or hard-to-replace component",
     "evidence": 4,
     "bottleneck_strength": 5,
     "timing": 4,
     "valuation_mismatch": 3,
     "risk_quality": 2,
     "discovery_gap": 5,
-    "catalyst": "2027 volume ramp",
-    "risk": "customer concentration",
-    "source": "company press release",
+    "catalyst": "customer qualification or policy catalyst",
+    "risk": "timing, dilution, or customer concentration",
+    "source": "company filing or primary-source release",
     "notes": "optional"
   }
 ]

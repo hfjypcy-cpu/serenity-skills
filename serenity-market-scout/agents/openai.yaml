@@ -1,4 +1,4 @@
 interface:
   display_name: "Serenity Market Scout"
-  short_description: "Serenity式AI供应链主题和低估线索深度研究"
-  default_prompt: "Use $serenity-market-scout to find current AI infrastructure themes and undervalued stock research leads."
+  short_description: "跨行业发现潜力方向和低估线索的深度研究"
+  default_prompt: "Use $serenity-market-scout to run open-ended cross-sector market discovery and find current undervalued public-equity research leads."

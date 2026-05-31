@@ -11,7 +11,7 @@
 
 ## Purpose
 
-Use this when the user wants the skill to discover the next promising industry, concept, or stock without preselecting a sector. The built-in theme taxonomy is only a seed map. Do not limit the search to AI, semiconductors, CPO, HBM, glass substrates, power, cooling, robotics, or stablecoins.
+Use this when the user wants the skill to discover the next promising industry, concept, or stock without preselecting a sector. The built-in theme taxonomy is only a seed map. Do not limit the search to any named example, prior case, existing watchlist, or predefined taxonomy.
 
 ## Discovery rule
 

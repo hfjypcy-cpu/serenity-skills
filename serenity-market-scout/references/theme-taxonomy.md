@@ -1,4 +1,8 @@
-# Theme Taxonomy
+# Seed Theme Examples
+
+This file is a non-exhaustive set of examples. It is not the skill's coverage scope. For unconstrained discovery, first use `open-discovery.md` to scan across sectors, then use this file only as a reminder of previously productive patterns.
+
+中文范围声明：当前覆盖范围没有领域限制。下列内容只是历史案例和种子方向，不能被总结为 skill 的覆盖边界。真正的工作方式是经实时检索和分析后，从任何可能行业中筛出值得关注的方向和个股。
 
 ## Table of Contents
 
@@ -18,7 +22,7 @@
 - Consumer, distribution, and local-market bottlenecks
 - How to use this taxonomy
 
-This taxonomy is a seed map, not a sector limit. For open-ended discovery, first scan across sectors with `open-discovery.md`, then use this file only to avoid missing known high-yield areas.
+This taxonomy is a seed map, not a sector limit. For open-ended discovery, first scan across sectors with `open-discovery.md`, then use this file only to avoid missing known high-yield areas. Never summarize the skill as covering only the examples in this file.
 
 ## AI optical interconnect and CPO
 

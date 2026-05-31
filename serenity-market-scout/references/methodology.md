@@ -14,7 +14,7 @@
 
 ## Core model
 
-The method starts from a large, unavoidable demand shock and walks down the supply chain until it finds a small, hard-to-replace constraint. The best candidates are not necessarily the most famous companies. They are often second- or third-order suppliers that become important only after a new architecture enters volume production.
+The method starts from a large, unavoidable demand shock and walks down the value chain until it finds a small, hard-to-replace constraint. The best candidates are not necessarily the most famous companies. They are often second- or third-order beneficiaries that become important only after a new architecture, regulation, procurement pattern, or market structure changes.
 
 Use this chain:
 

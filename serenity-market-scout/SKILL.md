@@ -1,6 +1,6 @@
 ---
 name: serenity-market-scout
-description: Find current market themes, hot sectors, next-potential industries, undervalued public-equity research leads, and single-stock deep dives across any sector using a Serenity-style bottleneck, functional-monopoly, OSINT customer-mapping, and second-order supplier method. Use when the user asks for upcoming hot concepts, thematic stock ideas, overlooked small/mid-cap names, "like Serenity" investment logic, broad market opportunity discovery, AI/semi/CPO/HBM/glass-substrate/power/cooling/robotics/stablecoin opportunity maps, X/subscription account research synthesis, or a detailed watchlist with current web verification.
+description: Find current market themes, hot sectors, next-potential industries, undervalued public-equity research leads, and single-stock deep dives across any public-equity sector using a Serenity-style bottleneck, functional-monopoly, OSINT customer-mapping, and second-order beneficiary method. Use when the user asks for broad market opportunity discovery, upcoming hot concepts, thematic stock ideas, overlooked small/mid-cap names, cross-sector scans, "like Serenity" investment logic, X/subscription account research synthesis, or a detailed watchlist with current web verification. This skill has no fixed industry coverage boundary and should discover candidates from any field after live research.
 ---
 
 # Serenity Market Scout
@@ -8,6 +8,8 @@ description: Find current market themes, hot sectors, next-potential industries,
 ## Core behavior
 
 Use this skill to produce a current, source-grounded market scout report or single-stock deep dive. It should not be limited to any predefined industry or ticker universe. The output should combine live research with a Serenity-style method: start from a large demand shock, decompose the technical, regulatory, physical, or financial architecture, identify the narrow bottleneck or functional monopoly, map the listed beneficiaries and customers, then separate confirmed facts from inference.
+
+Scope statement in Chinese: 当前覆盖范围不限于任何固定行业。默认工作方式是先进行跨行业检索和分析，从科技、工业、能源、材料、医疗、金融基础设施、消费、交通、防务、农业、水务、建筑、保险、数据服务、本地供应链等任何可能领域中发现值得关注的潜在方向和个股，再用瓶颈、功能性垄断、客户映射、催化剂和估值错配框架筛选。
 
 Treat every output as a research watchlist, not investment advice. Give a clear time boundary, cite sources, and mark uncertain links as hypotheses. Do not claim a stock is undervalued unless the explanation states what the market may be missing and what must be verified next.
 
@@ -35,8 +37,8 @@ Load only the files needed for the task:
 - `references/source-playbook.md`: Read before doing live research or when a claim needs verification.
 - `references/open-discovery.md`: Read when the user wants the skill to find the next promising industries or stocks without sector constraints.
 - `references/osint-techniques.md`: Read when customer mapping, hidden supplier discovery, or single-stock source triangulation is central.
-- `references/theme-taxonomy.md`: Read when generating sector maps or choosing which hot themes to scan. Treat this as a seed map, not a boundary.
-- `references/casebook.md`: Read when explaining the method through examples such as CPO, HBM4, glass substrates, power, NeoCloud, or stablecoins.
+- `references/theme-taxonomy.md`: Read when generating sector maps or choosing which hot themes to scan. Treat this as a non-exhaustive seed map, never as coverage scope.
+- `references/casebook.md`: Read when explaining the method through prior examples. Treat examples as reusable patterns, never as industry limits.
 - `references/deep-dive-template.md`: Read when the user asks for one company, one ticker, or a "why this stock" thesis.
 - `references/account-investigation-workflow.md`: Read when using Chrome/X/newsletters/subscriber posts as a corpus.
 - `references/output-template.md`: Read when the user wants a complete report, watchlist, or reusable output format.
