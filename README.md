@@ -27,7 +27,7 @@ Serenity Market Scout 是一个面向 Claude 的研究技能，复现了 Serenit
 ## 它能做什么？
 
 **主题发现**  
-跨行业扫描新兴需求冲击及其压力传导路径。使用时无需预先指定行业，技能可从第一性原理出发进行开放式发现，找出信号最强的主题。当前覆盖范围包括：AI 基础设施（GPU、CPO、HBM、玻璃基板）、电力与散热、机器人与自动化、稳定币与支付基础设施，以及研究路径延伸至的任何相邻领域。
+跨行业扫描新兴需求冲击及其压力传导路径。使用时无需预先指定行业，技能默认先进行跨行业检索与分析，从科技、工业、能源、材料、医疗、金融基础设施、消费、交通、防务、农业、水务、建筑、保险、数据服务、本地供应链等任何可能领域中发现值得关注的方向和个股，再用瓶颈、功能性垄断、客户映射、催化剂和估值错配框架筛选。覆盖范围没有固定边界。
 
 **卡脖子与功能型垄断识别**  
 对每个主题，技能识别供应链中结构性收窄的位置——单一原材料、唯一来源零部件、认证壁垒、地理集中度——并映射哪些上市公司坐落在这个卡口位置。
@@ -80,7 +80,7 @@ The skill packages that method into a set of structured instructions and referen
 ## What can it do?
 
 **Thematic discovery**  
-Scan across industries for emerging demand shocks and the supply chains they stress. The skill does not require you to name a sector upfront — it can run open-ended discovery across equities and surface the highest-signal themes from first principles. Current coverage spans AI infrastructure (GPU, CPO, HBM, glass substrates), power and cooling, robotics and automation, stablecoins and payments infrastructure, and any adjacent area the research trail leads to.
+Scan across industries for emerging demand shocks and the supply chains they stress. The skill does not require you to name a sector upfront — it defaults to open-ended cross-sector research, surfacing candidates from technology, industrials, energy, materials, healthcare, financial infrastructure, consumer, transportation, defense, agriculture, utilities, construction, insurance, data services, local supply chains, or any other field, then filters through the bottleneck, functional-monopoly, customer-mapping, catalyst, and valuation-mismatch framework. There is no fixed coverage boundary.
 
 **Bottleneck and functional monopoly identification**  
 For each theme, the skill identifies where the supply chain is structurally narrow — a single material, a sole-source component, a certification gate, a geographic concentration — and maps which listed companies sit at that choke point.
