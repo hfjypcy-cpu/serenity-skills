@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serenity Market Scout"
+  short_description: "Serenity式AI供应链主题和低估线索深度研究"
+  default_prompt: "Use $serenity-market-scout to find current AI infrastructure themes and undervalued stock research leads."
