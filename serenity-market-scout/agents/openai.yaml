@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serenity Market Scout"
+  short_description: "跨行业发现潜力方向和低估线索的深度研究"
+  default_prompt: "Use $serenity-market-scout to run open-ended cross-sector market discovery and find current undervalued public-equity research leads."
